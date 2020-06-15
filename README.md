@@ -42,7 +42,7 @@ Add the npm package to your project:
 $ yarn add @unly/serverless-env-copy-plugin
 
 # Via npm
-$ npm instal @unly/serverless-env-copy-plugin --save
+$ npm install @unly/serverless-env-copy-plugin --save
 ```
 
 Add the plugin to your `serverless.yml`:
